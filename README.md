@@ -62,6 +62,6 @@ npm install
 
 VITE_API_BASE_URL=http://localhost:5000/api
 
-### 3. Run the Backend
+### 3. Run the Frontend
 
 npm run dev
